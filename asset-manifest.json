@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nepesc-site/static/css/main.17f45f46.chunk.css",
+    "main.js": "/nepesc-site/static/js/main.d7cd224e.chunk.js",
+    "main.js.map": "/nepesc-site/static/js/main.d7cd224e.chunk.js.map",
+    "runtime-main.js": "/nepesc-site/static/js/runtime-main.c70c1a64.js",
+    "runtime-main.js.map": "/nepesc-site/static/js/runtime-main.c70c1a64.js.map",
+    "static/js/2.1f6e2562.chunk.js": "/nepesc-site/static/js/2.1f6e2562.chunk.js",
+    "static/js/2.1f6e2562.chunk.js.map": "/nepesc-site/static/js/2.1f6e2562.chunk.js.map",
+    "static/js/3.50488c8f.chunk.js": "/nepesc-site/static/js/3.50488c8f.chunk.js",
+    "static/js/3.50488c8f.chunk.js.map": "/nepesc-site/static/js/3.50488c8f.chunk.js.map",
+    "index.html": "/nepesc-site/index.html",
+    "static/css/main.17f45f46.chunk.css.map": "/nepesc-site/static/css/main.17f45f46.chunk.css.map",
+    "static/js/2.1f6e2562.chunk.js.LICENSE.txt": "/nepesc-site/static/js/2.1f6e2562.chunk.js.LICENSE.txt",
+    "static/media/logo-nepesc.74b2a5fd.png": "/nepesc-site/static/media/logo-nepesc.74b2a5fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c70c1a64.js",
+    "static/js/2.1f6e2562.chunk.js",
+    "static/css/main.17f45f46.chunk.css",
+    "static/js/main.d7cd224e.chunk.js"
+  ]
+}
