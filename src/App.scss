@@ -1,0 +1,29 @@
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+body{
+  background-color: $gray-700;
+}
+
+div > p{
+  color: #ffffff;
+}
+
+.container, .col-config{
+  margin-top: 3vw;
+}
+
+h1{
+  color: $pink-500;
+  text-align: center;
+}
+
+
+abbr{
+  color: $yellow-500;
+  transition: color 1s;
+
+  &:hover{
+    color: $orange-500;
+  }
+}
