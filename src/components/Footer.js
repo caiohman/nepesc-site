@@ -13,7 +13,12 @@ export const Footer = () => (
       <div class="col-md">
       </div>
       <div class="col-md ">
-        <IconContext.Provider value={{ size: "calc(1em + 1.3vw)", className: "global-class-name" }}>
+        <IconContext.Provider
+          value={{ color: "black",
+           size: "calc(1.5em + 1.3vw)",
+           className: "global-class-name"
+          }}
+        >
           <a href = "#" target = "_blank">
             <FaLinkedin/>
           </a>
